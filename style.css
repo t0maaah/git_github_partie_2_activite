@@ -1,6 +1,15 @@
+body{
+    background-color: black;
+}
 h1 {
     color: aqua;
 }
 p {
     color: blueviolet;
+}
+h2{
+    color: aquamarine;
+}
+.ajout{
+    color: chartreuse;
 }
